@@ -52,3 +52,17 @@ console.log(`meets the availability:${isDivisibleby5}`);
 const isnum1greaterthan4= (n1 > n4); 
 console.log(`first is greater thanlast:${isnum1greaterthan4}`);
 
+const subN1fromN2= (n1 - n2);
+console.log(subN1fromN2);
+
+const xby3 = (subN1fromN2 * n3);
+console.log(xby3);
+
+const rem =(mulBythird % n4)
+console.log(rem)
+
+const isUnder25 = n1 < 25 || n2 <25 || n4 < 25;
+console.log(isUnder25)
+
+
+
